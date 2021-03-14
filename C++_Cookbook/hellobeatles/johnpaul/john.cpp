@@ -3,6 +3,6 @@
 
 using namespace std;
 
-void join(){
-	cout << "John, ";
+void john(){
+	cout << "John,";
 }

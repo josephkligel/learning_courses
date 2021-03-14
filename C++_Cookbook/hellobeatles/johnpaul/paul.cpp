@@ -1,5 +1,5 @@
 #include <iostream>
-#include "paul.cpp"
+#include "paul.hpp"
 
 void paul(){
 	std::cout << " Paul, ";
